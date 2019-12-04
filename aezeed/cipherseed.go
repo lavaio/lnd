@@ -127,7 +127,7 @@ var (
 	// seed. The birthday will be interested as the number of days since
 	// the genesis date. We refer to this time period as ABE (after Bitcoin
 	// era).
-	BitcoinGenesisDate = time.Unix(1231006505, 0)
+	BitcoinGenesisDate = time.Unix(1566964800, 0)
 )
 
 // CipherSeed is a fully decoded instance of the aezeed scheme. At a high
